@@ -5,6 +5,6 @@ function setup(){
 }
 
 function draw(){
+  background(23);
 
-  background(random(255),random(255),random(255));
 }
